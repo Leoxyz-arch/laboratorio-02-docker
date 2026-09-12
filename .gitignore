@@ -1,0 +1,11 @@
+# Dependencias de Node
+node_modules/
+npm-debug.log
+
+# Variables de entorno con contraseñas
+.env
+
+# Archivos del sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
