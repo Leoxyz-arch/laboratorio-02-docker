@@ -1,0 +1,12 @@
+{
+  "name": "minimal-api",
+  "version": "1.0.0",
+  "description": "Minimal API para Laboratorio 02",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
